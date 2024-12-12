@@ -2,16 +2,20 @@
   "images": [],
   "name": "Datagrid1212-1",
   "connectorType": "datagrid",
-  "type": "basic",
+  "type": "api",
   "authCodeText": null,
-  "userName": "example",
-  "password": "testpass",
-  "apiKey": null,
-  "clientKey": null,
-  "clientSecret": null,
+  "userName": "****",
+  "password": "****",
+  "apiKey": "test",
+  "clientKey": "",
+  "clientSecret": "",
   "userId": null,
   "customAccountFields": [
-    {}
+    {
+      "label": null,
+      "value": null,
+      "type": null
+    }
   ],
   "domoClientId": null,
   "domoClientSecret": null,
